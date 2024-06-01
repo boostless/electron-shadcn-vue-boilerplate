@@ -14,7 +14,7 @@ An Electron application with Vue, Shadcn and TypeScript
 $ npm install
 ```
 
-### updating
+### Updating
 
 ```bash
 $ npx shadcn-vue@latest diff
