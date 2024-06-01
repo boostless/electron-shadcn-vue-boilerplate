@@ -1,6 +1,6 @@
 # shadcn-app
 
-An Electron application with Vue and TypeScript
+An Electron application with Vue, Shadcn and TypeScript
 
 ## Recommended IDE Setup
 
